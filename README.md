@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Ehoneah Obed | Email: [ehoneahobed](mailto:ehoneahobed@hotmail.com) 
+👤 **Engr. Caleb Onyedikachi Ugwoke** | Email ✉️: [Caleb Ugwoke](mailto:calebugwoke@gmail.com) | Call 📞: +2348136 298 531 
 
-Anthony Etim | Github: [otoobongekim](mailto:otoobongekim@gmail.com)
+👤 **Musa Oyiza Rahama** | GitHub: [Musa Oyiza Rahama](https://github.com/Oyizaa) | Call 📞: +234 8033 844 473
