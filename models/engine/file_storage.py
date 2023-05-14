@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module for FileStorage class."""
+"""This Module is for File Storage class."""
 import datetime
 import json
 import os
