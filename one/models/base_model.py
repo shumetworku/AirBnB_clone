@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This script is the base model"""
+"""This is a script for the base model"""
 import uuid
 import datetime
 from models import storage
