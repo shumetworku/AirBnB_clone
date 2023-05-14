@@ -7,7 +7,7 @@ from io import StringIO
 
 
 class Test_Console(unittest.TestCase):
-    """Test the HBNBCommand Console"""
+    """For Testing the HBNBCommand Console"""
 
 #     def test_help(self):
 #         """Tests the help commmand"""
