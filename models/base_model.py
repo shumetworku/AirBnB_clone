@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """This is a script for the base model"""
 
 import uuid
